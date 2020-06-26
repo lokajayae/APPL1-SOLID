@@ -1,0 +1,6 @@
+com\interfaces\IShape.class
+com\model\GraphicEditor.class
+com\application\Startup.class
+com\model\Rectangle.class
+com\model\Square.class
+com\model\Circle.class
